@@ -2,7 +2,7 @@
 A classification problem (for the purpose of practicing) where we have to predict whether a loan would be approved or not.
 This problem has been attempted using Logistic Regression and associated training and test data has been provided in csv format.
 
-Since this was a fairly quick solution with rough approach to solving the problem, in hindsight I would have preferred to do Bivariate analysis too, factoring in assumptions and domain information like :
+Since this was a fairly quick solution with a rough approach to solving the problem, in hindsight I would have preferred to do Bivariate analysis too, factoring in assumptions and domain information like :
 
 A) Applicants with high income should have more chances of loan approval.
 B) Applicants who have repaid their previous debts should have higher chances of loan approval.
