@@ -1,5 +1,5 @@
 # Loan_Prediction_Practice
-A classification problem (for the purpose of practicing) where we have to predict whether a loan would be approved or not.
+A classification problem (for the purpose of practicing) where we have to predict whether a loan would be approved or not [Loan Status].
 This problem has been attempted using Logistic Regression and associated training and test data has been provided in csv format.
 
 ![Screenshot](1.JPG)
